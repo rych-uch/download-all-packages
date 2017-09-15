@@ -1,0 +1,15 @@
+# List of repositories that not specified an url for their source in the distribution.yaml file
+libg2o
+ompl
+bfl
+pyros_config
+pyros_utils
+graph_msgs
+pyros_test
+opencv3
+libfreenect
+libuvc
+visp
+navigation_msgs
+asr_msgs
+rosbag_migration_rule
